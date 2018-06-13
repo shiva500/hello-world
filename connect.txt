@@ -1,2 +1,3 @@
 
 connect(FILE_HIPPO);
+connect(File_EXIT);
